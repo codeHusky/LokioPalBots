@@ -1,4 +1,4 @@
-## Lokio Bots for Palringo ##
+## Lokio's Bots for Palringo ##
 There's one thing for certain. This is coming soon.
 
 ### Bot Manager ###
